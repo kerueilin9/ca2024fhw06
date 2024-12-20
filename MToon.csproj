@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{BB37FD9B-C50A-C2A3-5FBA-CA97F860C2A0}</ProjectGuid>
+    <ProjectGuid>{C8E4BD31-09CA-41C0-CE1A-335B21CE7F27}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>MToon</AssemblyName>

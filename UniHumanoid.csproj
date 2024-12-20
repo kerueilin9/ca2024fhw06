@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6163D184-2855-35A4-55EF-36D7C4000F8E}</ProjectGuid>
+    <ProjectGuid>{D4219D30-F7FC-61B4-07CA-41C745E2EC1B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>UniHumanoid</AssemblyName>
@@ -974,7 +974,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UniGLTF.Utils.csproj">
-      <Project>{A693B520-C056-DECA-1B99-03296B60F80F}</Project>
+      <Project>{65FD6F1A-8A37-4C2D-7B01-FD0BC1B57362}</Project>
       <Name>UniGLTF.Utils</Name>
     </ProjectReference>
   </ItemGroup>

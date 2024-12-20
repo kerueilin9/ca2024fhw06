@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{07B1E044-42FF-C6AE-6B2C-A961FD28D85A}</ProjectGuid>
+    <ProjectGuid>{2B97FA71-D7E0-12FD-5669-EDC18C1965F2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>UniHumanoid.Editor</AssemblyName>
@@ -976,15 +976,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="VRM.csproj">
-      <Project>{7594EE22-03F1-D510-C107-C17241BF0986}</Project>
+      <Project>{C69DD6F4-D569-A6B7-3A86-6DA1791525C7}</Project>
       <Name>VRM</Name>
     </ProjectReference>
     <ProjectReference Include="UniHumanoid.csproj">
-      <Project>{6163D184-2855-35A4-55EF-36D7C4000F8E}</Project>
+      <Project>{D4219D30-F7FC-61B4-07CA-41C745E2EC1B}</Project>
       <Name>UniHumanoid</Name>
     </ProjectReference>
     <ProjectReference Include="UniGLTF.Utils.csproj">
-      <Project>{A693B520-C056-DECA-1B99-03296B60F80F}</Project>
+      <Project>{65FD6F1A-8A37-4C2D-7B01-FD0BC1B57362}</Project>
       <Name>UniGLTF.Utils</Name>
     </ProjectReference>
   </ItemGroup>

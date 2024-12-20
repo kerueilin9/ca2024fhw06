@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{0E67DC1D-2B8D-C9F6-27EA-DBAF029FF1F7}</ProjectGuid>
+    <ProjectGuid>{B7A41C41-745A-B645-4192-03E2ED353CB8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>SpringBoneJobs</AssemblyName>

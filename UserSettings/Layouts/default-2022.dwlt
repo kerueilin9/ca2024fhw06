@@ -405,7 +405,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Ker\Desktop\Document\113-1\CA\My project
+  m_LastProjectPath: D:\Ker\Desktop\Document\113-1\CA\mc2024fhw06
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -537,7 +537,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 378
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
@@ -579,10 +579,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: aa5e0000
+      scrollPos: {x: 0, y: 120.400024}
+      m_SelectedIDs: 385e0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 30fbffff
+      m_ExpandedIDs: 9eecffffa2ecffffbeecffffc2ecffffc6ecffffcaecffffd0ecffff16fbffff22fbffff26fbffff2afbffff2efbffff30fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -936,9 +936,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 2.6466525, y: 2.0709689, z: 1.5313401}
+    m_Target: {x: 7.391303, y: 5.7275977, z: 5.8294773}
     speed: 2
-    m_Value: {x: 2.6466525, y: 2.0709689, z: 1.5313401}
+    m_Value: {x: 7.391303, y: 5.7275977, z: 5.8294773}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -986,11 +986,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0, y: 0, z: 0, w: 1}
     speed: 2
-    m_Value: {x: -0, y: 0, z: -0, w: -1}
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 8.555234
+    m_Target: 11.595387
     speed: 2
-    m_Value: 8.555234
+    m_Value: 11.595387
   m_Ortho:
     m_Target: 1
     speed: 2

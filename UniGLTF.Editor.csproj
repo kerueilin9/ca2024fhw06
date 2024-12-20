@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{13830E16-9EA0-42D2-F6BA-9D55116C7E99}</ProjectGuid>
+    <ProjectGuid>{9F1D97FF-BF67-6CB3-575E-1F5ECB274DC4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>UniGLTF.Editor</AssemblyName>
@@ -1064,15 +1064,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UniGLTF.csproj">
-      <Project>{65F15F4B-2F38-E4EA-00F6-0563000A961A}</Project>
+      <Project>{69A0AC69-51A0-1E90-4A45-0CFF0851B81B}</Project>
       <Name>UniGLTF</Name>
     </ProjectReference>
     <ProjectReference Include="UniGLTF.Utils.csproj">
-      <Project>{A693B520-C056-DECA-1B99-03296B60F80F}</Project>
+      <Project>{65FD6F1A-8A37-4C2D-7B01-FD0BC1B57362}</Project>
       <Name>UniGLTF.Utils</Name>
     </ProjectReference>
     <ProjectReference Include="UniHumanoid.csproj">
-      <Project>{6163D184-2855-35A4-55EF-36D7C4000F8E}</Project>
+      <Project>{D4219D30-F7FC-61B4-07CA-41C745E2EC1B}</Project>
       <Name>UniHumanoid</Name>
     </ProjectReference>
   </ItemGroup>

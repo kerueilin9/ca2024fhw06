@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{80ED94AE-57AF-5A12-8426-0E2485973407}</ProjectGuid>
+    <ProjectGuid>{CD2CA31C-2C25-F2E3-BF6D-ED23183DC645}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>VRM.Tests</AssemblyName>
@@ -950,23 +950,23 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="VRM.csproj">
-      <Project>{7594EE22-03F1-D510-C107-C17241BF0986}</Project>
+      <Project>{C69DD6F4-D569-A6B7-3A86-6DA1791525C7}</Project>
       <Name>VRM</Name>
     </ProjectReference>
     <ProjectReference Include="UniVRM.Editor.csproj">
-      <Project>{8E81A917-EC2D-29D1-29E8-C0B1FC56167F}</Project>
+      <Project>{14830843-B012-03B9-C314-842AE578887F}</Project>
       <Name>UniVRM.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="UniGLTF.csproj">
-      <Project>{65F15F4B-2F38-E4EA-00F6-0563000A961A}</Project>
+      <Project>{69A0AC69-51A0-1E90-4A45-0CFF0851B81B}</Project>
       <Name>UniGLTF</Name>
     </ProjectReference>
     <ProjectReference Include="UniGLTF.Editor.csproj">
-      <Project>{13830E16-9EA0-42D2-F6BA-9D55116C7E99}</Project>
+      <Project>{9F1D97FF-BF67-6CB3-575E-1F5ECB274DC4}</Project>
       <Name>UniGLTF.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="UniGLTF.Tests.csproj">
-      <Project>{845B91FF-1781-F857-29E1-C8813FD8D75B}</Project>
+      <Project>{D6B2462D-CB62-9D4B-466E-097761A14847}</Project>
       <Name>UniGLTF.Tests</Name>
     </ProjectReference>
   </ItemGroup>

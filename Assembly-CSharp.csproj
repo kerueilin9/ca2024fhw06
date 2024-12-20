@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{32C3BDE6-E125-3128-82C1-25D0441455A3}</ProjectGuid>
+    <ProjectGuid>{7F3CA990-1A49-CD40-0B11-06B404D82586}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -995,19 +995,19 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UniHumanoid.csproj">
-      <Project>{6163D184-2855-35A4-55EF-36D7C4000F8E}</Project>
+      <Project>{D4219D30-F7FC-61B4-07CA-41C745E2EC1B}</Project>
       <Name>UniHumanoid</Name>
     </ProjectReference>
     <ProjectReference Include="UniGLTF.csproj">
-      <Project>{65F15F4B-2F38-E4EA-00F6-0563000A961A}</Project>
+      <Project>{69A0AC69-51A0-1E90-4A45-0CFF0851B81B}</Project>
       <Name>UniGLTF</Name>
     </ProjectReference>
     <ProjectReference Include="VRM.csproj">
-      <Project>{7594EE22-03F1-D510-C107-C17241BF0986}</Project>
+      <Project>{C69DD6F4-D569-A6B7-3A86-6DA1791525C7}</Project>
       <Name>VRM</Name>
     </ProjectReference>
     <ProjectReference Include="SpringBoneJobs.csproj">
-      <Project>{0E67DC1D-2B8D-C9F6-27EA-DBAF029FF1F7}</Project>
+      <Project>{B7A41C41-745A-B645-4192-03E2ED353CB8}</Project>
       <Name>SpringBoneJobs</Name>
     </ProjectReference>
   </ItemGroup>

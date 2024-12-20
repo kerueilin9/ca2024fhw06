@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{7594EE22-03F1-D510-C107-C17241BF0986}</ProjectGuid>
+    <ProjectGuid>{C69DD6F4-D569-A6B7-3A86-6DA1791525C7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>VRM</AssemblyName>
@@ -1018,27 +1018,27 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UniHumanoid.csproj">
-      <Project>{6163D184-2855-35A4-55EF-36D7C4000F8E}</Project>
+      <Project>{D4219D30-F7FC-61B4-07CA-41C745E2EC1B}</Project>
       <Name>UniHumanoid</Name>
     </ProjectReference>
     <ProjectReference Include="UniGLTF.csproj">
-      <Project>{65F15F4B-2F38-E4EA-00F6-0563000A961A}</Project>
+      <Project>{69A0AC69-51A0-1E90-4A45-0CFF0851B81B}</Project>
       <Name>UniGLTF</Name>
     </ProjectReference>
     <ProjectReference Include="MToon.csproj">
-      <Project>{BB37FD9B-C50A-C2A3-5FBA-CA97F860C2A0}</Project>
+      <Project>{C8E4BD31-09CA-41C0-CE1A-335B21CE7F27}</Project>
       <Name>MToon</Name>
     </ProjectReference>
     <ProjectReference Include="UniGLTF.Utils.csproj">
-      <Project>{A693B520-C056-DECA-1B99-03296B60F80F}</Project>
+      <Project>{65FD6F1A-8A37-4C2D-7B01-FD0BC1B57362}</Project>
       <Name>UniGLTF.Utils</Name>
     </ProjectReference>
     <ProjectReference Include="UniGLTF.UniUnlit.csproj">
-      <Project>{2198764C-B307-B385-F4CD-44D6D15AC2F1}</Project>
+      <Project>{AB3FE4A4-97B0-C081-3086-F43F74EECB4B}</Project>
       <Name>UniGLTF.UniUnlit</Name>
     </ProjectReference>
     <ProjectReference Include="SpringBoneJobs.csproj">
-      <Project>{0E67DC1D-2B8D-C9F6-27EA-DBAF029FF1F7}</Project>
+      <Project>{B7A41C41-745A-B645-4192-03E2ED353CB8}</Project>
       <Name>SpringBoneJobs</Name>
     </ProjectReference>
   </ItemGroup>

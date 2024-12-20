@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{65F15F4B-2F38-E4EA-00F6-0563000A961A}</ProjectGuid>
+    <ProjectGuid>{69A0AC69-51A0-1E90-4A45-0CFF0851B81B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>UniGLTF</AssemblyName>
@@ -1172,11 +1172,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UniGLTF.UniUnlit.csproj">
-      <Project>{2198764C-B307-B385-F4CD-44D6D15AC2F1}</Project>
+      <Project>{AB3FE4A4-97B0-C081-3086-F43F74EECB4B}</Project>
       <Name>UniGLTF.UniUnlit</Name>
     </ProjectReference>
     <ProjectReference Include="UniGLTF.Utils.csproj">
-      <Project>{A693B520-C056-DECA-1B99-03296B60F80F}</Project>
+      <Project>{65FD6F1A-8A37-4C2D-7B01-FD0BC1B57362}</Project>
       <Name>UniGLTF.Utils</Name>
     </ProjectReference>
   </ItemGroup>

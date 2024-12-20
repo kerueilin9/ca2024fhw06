@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{2198764C-B307-B385-F4CD-44D6D15AC2F1}</ProjectGuid>
+    <ProjectGuid>{AB3FE4A4-97B0-C081-3086-F43F74EECB4B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>UniGLTF.UniUnlit</AssemblyName>

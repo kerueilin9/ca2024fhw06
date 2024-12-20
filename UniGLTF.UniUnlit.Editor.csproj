@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B19A85E7-85A6-3240-7547-D54A5D655077}</ProjectGuid>
+    <ProjectGuid>{F17C3F12-8313-873A-4A89-419DCEA53BA7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>UniGLTF.UniUnlit.Editor</AssemblyName>
@@ -972,7 +972,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UniGLTF.UniUnlit.csproj">
-      <Project>{2198764C-B307-B385-F4CD-44D6D15AC2F1}</Project>
+      <Project>{AB3FE4A4-97B0-C081-3086-F43F74EECB4B}</Project>
       <Name>UniGLTF.UniUnlit</Name>
     </ProjectReference>
   </ItemGroup>
